@@ -1,7 +1,7 @@
 ## How to cover the 2020 Census
 
 <b>Paul Overberg | Wall Street Journal</b>
-<b></b>
+<b>D'Vera Cohn | Pew Research</b>
 
 <p>How to report on the Decennial Census in your neighborhood (or anywhere).</p>
 
@@ -22,7 +22,7 @@
         - Metrics: Ask officials about how well they think the census is doing tracking addresses
         - Big picture: Growing areas are tough to keep track of mailboxes, in other communities, might have problem with irregular housing or people doubled up
             - Are there zoning complaints about people parking on the grass
-                - Gillespie park!
+                - Gillespie Park in Sarasota!
         - Talk to LUCA officials and local officials to see if there are mismatches, local official will know for example the number of sewer hook ups
             - If there s a big mismatch, what does it mean for your community and the decennial census?
 
@@ -36,33 +36,34 @@
     - Complex households are something to watch
         - Can look at social service data or education or vaccination data
 
-RANDOM NOTE: Giant, independent survey (one million households), they hit these households and they join the census reults and see if it matches the survey
+- RANDOM NOTE: Giant, independent survey (one million households), they hit these households and they join the census results and see if it matches the survey
     - Birth certifcates are there, but they can't adjust the counts based n the birth certificates after the fact
 
-RANDOM NOTE: You can't follow census takers
+- RANDOM NOTE: You can't follow census takers
 
-Imputation rates range from 1% to sex to 33% for income and citizenship
+- Imputation rates range from 1% to sex to 33% for income and citizenship
 
-Residence rules:
-- if you live five months and 29 days in one house, the second house — six months and one day — would have you listed as the resident 
-- College students counted in dorms
-- Deployed troops counted at home base
-- Church missionaries ar not counted 
-- Nor will the count those whol live outside the US, besides federal or military workforce
+- Residence rules
+    - if you live five months and 29 days in one house, the second house — six months and one day — would have you listed as the resident 
+    - College students counted in dorms
+    - Deployed troops counted at home base
+    - Church missionaries are not counted 
+    - Nor will the count those who live outside the US, besides federal or military workforce
 
-Prisoners:
-    - Large prisons in rurlal areas, but many prisoners come from urban areas, you have to count them where they're incarerated
+- Prisoners:
+    - Large prisons in rural areas, but many prisoners come from urban areas, you have to count them where they're incarerated
     - Prison Policy project
 
 - Will the 2030 census be the administrative record census?
-    - 
+    - Census wants to eventually move toward something that doesn't require as much manual work
+    - Using adminsitrative records is way cheaper — and they usually have to use them anyway!
 
 - ICE does not have access to Census records
     - Title 9
     - DHS will send records to Census Bureau, but ot the other way
     - But DHS does monitor the Census systems for cyber threats
 
-- New york until 1970 said that redistrcting be done on th citizen population, reduced the represnetational power of new york city and expanded it to the state
+- New York until 1970 said that redistrcting be done on th citizen population, reduced the represnetational power of New York City and expanded it to the state
         
 - Cherry picking numbers for grants
     - Municipalities might use their own numbers when trying to get state or federal funding
@@ -76,21 +77,23 @@ Prisoners:
 - You dowload the participation rates and have that prepared to see how your community is doing as the 2020 numbers come in
     - Load in 2000, 2010 and 2020
 
-- Special populations you might want to eplore
+- Special populations you might want to explore
     - Group quarters
     - Homeless
     - Transitory
         - RV parks, marina and hotels
     - Military
 
-- Nonresponse follow up is the ist costly
-- Look at non respinse rate and workload
+- Nonresponse follow up is the most costly
+
+- Look at non response rate and workload
+
 - Is Census hiring the right kinds of people
-    - Won't tell you much about the characterstics of the workforce
+    - Won't tell you much about the characteristics of the workforce
     - Check in with the community groups
 
 - Important now
-    - Same issues with nonresponse are also there in high incoem communityes, like where condos and gated communities.
+    - Same issues with nonresponse are also there in high income communities, like condos and gated communities.
 
 - Likely issues for the 2020 session
     - Citizenship questions
@@ -110,8 +113,8 @@ Prisoners:
     - No MENA
     - Deleted negro
 
-- sexual orientation and gender
-    - same sex language to be used fr the first time
+- Sexual orientation and gender
+    - Aame sex language to be used fr the first time
     - Some researchers wanted to see SOGI questions, but changed their minds
         - SOGI is the gender identity question
         - Needs to be asked in a certain way to get a good answer
@@ -125,7 +128,7 @@ Prisoners:
 - Look to beat reporters in the hard-to-count communities
 
 - What are you trying to accomplish?
-    - Inform on what the process will ook like
+    - Inform on what the process will look like
     - Communicate any issues around the census
     - Debunk misinformation
         - How to respond to a fake graphic circulating on Facebook?
@@ -166,16 +169,15 @@ Prisoners:
 
 
 - Looking for A Sweet Sige Gig — The Census is Sexier Than You Think
-    - Currently have 160,000 registered to become enumerators, need  > 400,000, Pay is based on location but could be pretty good. Flexible hours, weekends, etc. Need to look i nto benefits, timeframe, etc.
+    - Currently have 160,000 registered to become enumerators, need  > 400,000, Pay is based on location but could be pretty good. Flexible hours, weekends, etc. Need to look in to benefits, timeframe, etc.
 
 - Census Bureau lags in enumerator hiring
     - The Census Bureau needs to hire 450,000 people to collect nonresponses.
+    - How does a tight labor market affect census hiring? Do they 
+
+- Will Census Activity Be a Boon to Your Area
+    - Since most enumerators and offices will go in and around hard-to-count communities, might make an economic development story.
+        - But is this actually true?
 
 - Our Best Guess at The Current Population
     - Look at sewer hookups or other proxies for household counts and try to estimate how much growth you think your city will see between the 2010 and 2020 Census. Could be fun, include reader input. Over/under. Social.
-
-The bls when it does its unemployment reports will teaxk two series, who's being hired for the census and those not, you could do some basic cost add the office lease and 
-
-
-
-where do amercian space station people get counted, one is miltary and two are civilians
